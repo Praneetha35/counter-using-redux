@@ -1,0 +1,9 @@
+use of ...state -->
+Instead of using Object.assign() , a shallow copy method to copy shallow copy the state with the updated values
+we use ..state (object spread operator) to make it more readable.
+
+
+Check: https://medium.com/@erashu212/using-object-spread-operator-in-redux-1f63c8803621
+
+Check this for the entire redux-counter documentation:
+https://dev.to/meddy672/react-redux-in-less-then-7-minutes-had
